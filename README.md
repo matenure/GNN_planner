@@ -4,15 +4,10 @@ This repository contains the source code for the paper [**Online Planner Selecti
 
 ```
 @article{ma2020online,
-
   title={Online Planner Selection with Graph Neural Networks and Adaptive Scheduling},
-  
   author={Ma, Tengfei and Ferber, Patrick and Huo, Siyu and Chen, Jie and Katz, Michael},
-  
-  journal={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
-  
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence 34 (AAAI)},
   year={2020}
-  
 }
 ```
 
